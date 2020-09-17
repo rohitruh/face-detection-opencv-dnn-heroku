@@ -1,3 +1,4 @@
+wb==7.1
 backcall==0.2.0
 click==7.1.2
 decorator==4.4.2
